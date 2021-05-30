@@ -7,6 +7,6 @@ West Bengal Rape victims 2001-2010
 
 Comparison of Increasing percentage of Rape between two major states in India West Bengal and Madhya Pradesh
 
-![]
+![](WB_vs_MP.jpg)
 
 
